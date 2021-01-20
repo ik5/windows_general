@@ -235,6 +235,7 @@ var LocaleStringToMSFullCode = map[string]int{
 }
 
 // LocaleFullCodeToString takes full language code and convert to language name
+// Based on: https://www.autoitscript.com/autoit3/docs/appendix/OSLangCodes.htm
 var LocaleFullCodeToString = map[int]string{
 	0x0004: "zh-CHS",
 	0x0401: "ar-SA",
