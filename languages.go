@@ -386,7 +386,6 @@ var LocaleFullCodeToString = map[int]string{
 	0x0867: "ff-Latn-SN",
 	0x086B: "quz-EC",
 	0x0873: "ti-ER",
-	0x0873: "ti-ER",
 	0x0C01: "ar-EG",
 	0x0C04: "zh-HK",
 	0x0C07: "de-AT",
