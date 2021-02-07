@@ -154,7 +154,6 @@ var LocaleStringToMSFullCode = map[string]int{
 	"ff-Latn-SN":     0x0867,
 	"quz-EC":         0x086B,
 	"ti-ER":          0x0873,
-	"ti-ER":          0x0873,
 	"ar-EG":          0x0C01,
 	"zh-HK":          0x0C04,
 	"de-AT":          0x0C07,
